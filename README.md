@@ -21,7 +21,7 @@ Install NodeJS. Install all dependencies using the command 'npm install' in the 
 
 The app has been deployed on Heroku.
 
-Live URL : 
+Live URL : https://wens-challenge-19-j-a-t-e-a9a2d52e8454.herokuapp.com/
 
 ## License
 
